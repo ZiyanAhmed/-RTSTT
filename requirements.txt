@@ -1,0 +1,3 @@
+openai-whisper  # Whisper version
+pyaudio          # For recording audio
+numpy        # For audio data manipulation
